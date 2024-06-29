@@ -1,5 +1,5 @@
-appId: 'popolauncher'
-productName: 'popo' #설치파일이름
+appId: 'hairlosslauncher'
+productName: 'hairloss' #설치파일이름
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2018-2024 Daniel Scalzi'
