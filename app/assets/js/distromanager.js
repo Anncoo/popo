@@ -4,7 +4,7 @@ const ConfigManager = require('./configmanager')
 
 // Old WesterosCraft url.
 // exports.REMOTE_DISTRO_URL = 'http://mc.westeroscraft.com/WesterosCraftLauncher/distribution.json'
-exports.REMOTE_DISTRO_URL = 'https://drive.google.com/drive/folders/17fTlBArpfDpBaSV6AIb2dFX-otNp7UyK?usp=sharing/distribution.json'
+exports.REMOTE_DISTRO_URL = 'http://anncoo.dothome.co.kr/Anncoo/distribution.json'
 
 const api = new DistributionAPI(
     ConfigManager.getLauncherDirectory(),
