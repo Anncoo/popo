@@ -139,10 +139,10 @@ microsoftLoginTitle = "Microsoft Login"
 microsoftLogoutTitle = "Microsoft Logout"
 
 [js.login]
-login = "LOGIN"
+login = "로그인"
 loggingIn = "LOGGING IN"
-success = "SUCCESS"
-tryAgain = "Try Again"
+success = "성공"
+tryAgain = "다시시도"
 
 [js.login.error]
 invalidValue = "* Invalid Value"
